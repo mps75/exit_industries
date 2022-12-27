@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="catalogue">
+  {% for post in site.posts %}
+    {% if post.sticky %}
+      {% include catalogue_item.html sticky='true' %}
+    {% endif %}
+  {% endfor %}
+
+  {% for post in paginator.posts %}
+    {% include catalogue_item.html %}
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow"><i class="fa fa-arrow-circle-o-left fa-lg" aria-hidden="true"></i></a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow"><i class="fa fa-arrow-circle-o-right fa-lg" aria-hidden="true"></i></a>
+  {% endif %}
+
+  <span>{{ paginator.page }}</span>
+</div>

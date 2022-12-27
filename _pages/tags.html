@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Tags"
+permalink: /tags/
+---
+
+<div class="tags">
+  <div class="tags-clouds">
+    {% for tag in site.tags %}
+    <a href="#{{ tag[0] }}">{{ tag[0] }}</a>
+    {% endfor %}
+  </div>
+  {% for tag in site.tags %}
+  <div class="tags-item">
+    <h2 class="tags-item-label">{{ tag[0] }}</h2>
+    <ul>
+      {% for post in tag[1] %}
+        <li>
+          <a class="tags-post" href="{{ post.url | prepend: site.baseurl }}">
+            <div>
+              <span class="tags-post-title">{{ post.title }}</span>
+            </div>
+            <span class="tags-post-meta">
+              <time datetime="{{ post.date }}">
+                {{ post.date | date:"%Y-%m-%d" }}
+              </time>
+            </span>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,16 @@
+---
+# Only the main Sass file (this file) needs front matter so Jekyll knows to process it automatically (the dashes are enough)
+---
+
+// Import partials from _sass directory
+@import 'variables';
+@import 'archives';
+@import 'base';
+@import 'code';
+@import 'post';
+@import 'syntax';
+@import 'layout';
+@import 'pagination';
+@import 'catalogue';
+@import '404';
+@import 'tags';

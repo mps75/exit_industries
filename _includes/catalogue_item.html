@@ -1,0 +1,22 @@
+  <div class="catalogue-item">
+    {% if include.sticky == 'true' %}
+      <span class="catalogue-pinned">Pinned &middot;</span>
+    {% endif %}
+
+    <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%b %d, %Y" }}</time>
+
+    <a class="catalogue-title" href="{{ post.url | prepend: site.baseurl }}">
+      <h1 class="catalogue-title">{{ post.title }}</h1>
+      <span class="catalogue-line"></span>
+    </a>
+
+    <p>
+      {% if post.excerpt_separator %}
+        {{ post.excerpt }}
+      {% else %}
+        {{ post.content }}
+      {% endif %}
+    </p>
+
+  </div>
+
