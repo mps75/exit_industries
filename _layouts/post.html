@@ -2,40 +2,37 @@
 layout: default
 ---
 
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-line"></div>
+<div class="wrapper">
+  <div class="post">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="post-line"></div>
 
-  <div class="post-info">
-    {% if page.date %}
-      <i class="fa fa-clock-o" aria-hidden="true"></i>
-      <time datetime="{{ page.date }}">{{ page.date | date: "%b %d, %Y" }}</time>
-      <br/>
-      {% endif %}
-    {% if page.tags.size > 0 %}
-        <i class="fa fa-tags" aria-hidden="true"></i>
-        {% for tag in page.tags %}
-          {{ tag | strip }}
-          {%- unless forloop.last -%},{%- endunless -%}
-        {% endfor %}
-      {% endif %}
+    <div class="post-info">
+      {% if page.date %}
+        <i class="fa fa-clock-o" aria-hidden="true"></i>
+        <time datetime="{{ page.date }}">{{ page.date | date: "%b %d, %Y" }}</time>
+        <br/>
+        {% endif %}
+      {% if page.tags.size > 0 %}
+          <i class="fa fa-tags" aria-hidden="true"></i>
+          {% for tag in page.tags %}
+            {{ tag | strip }}
+            {%- unless forloop.last -%},{%- endunless -%}
+          {% endfor %}
+        {% endif %}
+    </div>
+    <br />
+    {{ content }}
   </div>
-  <br />
-
-  {{ content }}
 </div>
-
-{% if page.comments %}
-  {% include disqus_comments.html %}
-{% endif %}
 
 <div class="pagination">
   {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow"><i class="fa fa-arrow-circle-o-left fa-lg" aria-hidden="true"></i></a>
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow"><i class="fa fa-arrow-circle-o-left fa-lg" aria-hidden="true"></i> Previous</a>
   {% endif %}
   {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow"><i class="fa fa-arrow-circle-o-right fa-lg" aria-hidden="true"></i></a>
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">Next <i class="fa fa-arrow-circle-o-right fa-lg" aria-hidden="true"></i></a>
   {% endif %}
-
-  <a href="#" class="top">Top</a>
 </div>
+
+{% include footer.html %}
