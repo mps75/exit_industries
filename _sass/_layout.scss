@@ -17,15 +17,16 @@ footer {
 }
 
 .nav {
-  //background-color: $nav-background;
+  background-color: $nav-background;
   overflow: auto;
 
   &-container {
-     //margin: 10px;  //use if no background-image
-     margin: 0;
+     margin: 10px;  //use if no background-image
+     //margin: 0;  //use for background-image
      position: relative;
-     background-image: url("img/site/Global_temperature_1850-2018.png");
+     //background-image: url("img/site/Global_temperature_1850-2018.png");
      background-size: cover;
+     text-align: center;   //centers text on mobile
   }
 
   &-links {
@@ -82,11 +83,11 @@ footer {
 
 footer {
   font-family: $sans-serif;
-  padding: 2rem 0;
+  //padding: 2rem 0;
   text-align: center;
 
   span {
     color: $default-color;
-    font-size: .8rem;
+    font-size: .9rem;
   }
 }
