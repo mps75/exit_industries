@@ -103,3 +103,7 @@ li {
   height: 100%;
   border: 0;
 }
+
+.wrapper {
+  min-height: calc(100vh - 150px);
+}
