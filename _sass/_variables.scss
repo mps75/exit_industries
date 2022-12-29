@@ -1,5 +1,8 @@
 // Colors
-$catalogue-date: #e43428;
+//$catalogue-date: #e43428;
+//$catalogue-date: #d92aab;
+//$catalogue-date: #1572a1;
+$catalogue-date: #5e606c;
 $default-color: #555 !default;
 $default-shade: #353535 !default;
 $default-tint: #aaa !default;
@@ -7,17 +10,19 @@ $grey-1: #979797 !default;
 $grey-2: #e5e5e5 !default;
 $grey-3: #f9f9f9 !default;
 //$nav-background: #181818;
-$nav-background: #FFC1CC;
-$nav-title: #000000;
-$nav-title-hover: #ffffff;
+$nav-background: #ffc1cc;
+$nav-title: #ffffff;
+$nav-title-hover: #5e606c;
 $white: #fff !default;
 $blue: #4a9ae1 !default;
 $shadow-color: rgba(0, 0, 0, .2) !default;
 $code-color: #bf616a !default;
+//pink: #ffc1cc
+//redish for hover: #e44235
 
 // Fonts
-$serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif !default;
-$serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif !default;
+//$serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif !default;
+//$serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif !default;
 $sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif !default;
 $monospaced: Menlo, Monaco, monospace !default;
 

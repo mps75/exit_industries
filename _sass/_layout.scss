@@ -4,8 +4,7 @@
   width: 80%;
 }
 
-main,
-footer {
+main {
   display: block;
   margin: 0 auto;
   max-width: 800px;
@@ -21,11 +20,11 @@ footer {
   overflow: auto;
 
   &-container {
-     margin: 10px;  //use if no background-image
+     margin: 10;  //use if no background-image
      //margin: 0;  //use for background-image
      position: relative;
      //background-image: url("img/site/Global_temperature_1850-2018.png");
-     background-size: cover;
+     //background-size: cover;
      text-align: center;   //centers text on mobile
   }
 
@@ -53,7 +52,8 @@ footer {
 
   ul {
     list-style-type: none;
-    margin: 10px;
+    padding: 0;
+    //margin: 10px;
   }
 
   li {
@@ -75,6 +75,7 @@ footer {
 
     ul {
       bottom: 0;
+      margin: 10px 20px 10px 0;
       position: absolute;
       right: 0;
     }
@@ -83,11 +84,20 @@ footer {
 
 footer {
   font-family: $sans-serif;
-  //padding: 2rem 0;
-  text-align: center;
+  color: white;
+  text-align: right;
+  //background-color: #7F93A2;
+  background-color: #304054;
+  height: 8rem;
+  margin: 2rem 0 0 0;
+  padding: 2rem 2rem 2rem 2rem;
 
   span {
-    color: $default-color;
-    font-size: .9rem;
+    color: white;
+    //font-size: .9rem;
   }
+}
+
+.wrapper {
+  min-height: calc(100vh - 200px);
 }
