@@ -25,14 +25,3 @@ layout: default
     {{ content }}
   </div>
 </div>
-
-<div class="pagination">
-  {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow"><i class="fa fa-arrow-circle-o-left fa-lg" aria-hidden="true"></i> Previous</a>
-  {% endif %}
-  {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">Next <i class="fa fa-arrow-circle-o-right fa-lg" aria-hidden="true"></i></a>
-  {% endif %}
-</div>
-
-{% include footer.html %}
