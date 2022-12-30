@@ -1,11 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-  {% include head.html %}
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO -->
+    {% seo %}
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"/>
+    <link rel="stylesheet" href="{{ "/assets/font-awesome-4.7.0/css/font-awesome.min.css" | relative_url }}">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/img/site/favicon-32x32.png" | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/img/site/favicon-16x16.png" | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/img/site/apple-touch-icon.png" | relative_url }}">
+
+    <!-- RSS -->
+    {% feed_meta %}
+
+    <!-- Google Analytics-->
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+  </head>
+
   <body>
     {% include navigation.html %}
+
     <main>
       {{ content }}
     </main>
-    {% include footer.html %}
+
+    <footer>
+      <div>
+        <a class="social-media" href="https://twitter.com/mps75"><i class="fa-brands fa-twitter"></i></a>
+        <a class="social-media" href="https://www.youtube.com/channel/UCRUou5PlxkCfjuxqxJK5aLA"><i class="fa-brands fa-youtube"></i></a>
+        <a class="social-media" href="https://github.com/mps75"><i class="fa-brands fa-github"></i></a>
+      </div>
+        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> Exit Industries
+      </span>
+    </footer>
+
   </body>
 </html>
