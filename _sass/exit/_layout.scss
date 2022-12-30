@@ -23,7 +23,7 @@ main {
      margin: 10;  //use if no background-image
      //margin: 0;  //use for background-image
      position: relative;
-     //background-image: url("img/site/Global_temperature_1850-2018.png");
+     //background-image: url('img/site/Global_temperature_1850-2018.png');
      //background-size: cover;
      text-align: center;   //centers text on mobile
   }
@@ -84,10 +84,10 @@ main {
 
 footer {
   font-family: $sans-serif;
-  color: white;
+  color: $footer-items;
   text-align: right;
   //background-color: #7F93A2;
-  background-color: #304054;
+  background-color: $footer-background;
   height: 8rem;
   margin: 2rem 0 0 0;
   padding: 2rem 2rem 2rem 2rem;
