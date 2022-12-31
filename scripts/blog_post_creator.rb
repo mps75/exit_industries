@@ -33,4 +33,5 @@ template = File.read('blog_post_template.md.erb')
 output = ERB.new(template).result(binding)
 
 # Write the templated output into a new post file
-File.new("../drafts/#{timestamp}-#{blog_post_filename}.md", 'w').write(output)
+# File.new("../_drafts/#{timestamp}-#{blog_post_filename}.md", 'w').write(output)
+File.new("../_drafts/#{blog_post_filename}.md", 'w').write(output)
