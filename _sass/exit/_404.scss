@@ -1,22 +1,23 @@
 .notfound {
   position: relative;
-  text-align: center;
-  margin: 4rem 0;
+  padding: 3rem 0 0 0;
 
   &-error {
     font-size: 4rem;
-    margin: 1rem 0;
+    margin: 1rem 0 .2rem 0;
+    text-align: center;
   }
 
   &-line {
-    border-top: 0.4rem solid $default-shade;
+    border-top: 0.5rem solid $default-dark-color;
     display: block;
     margin: 0 auto 3rem;
-    width: 4rem;
+    width: 50%;
   }
 
   &-message {
     max-width: 25rem;
     margin: 0 auto;
+    text-align: center;
   }
 }
