@@ -2,22 +2,23 @@
   padding: 3rem 0;
 
   &-info {
-    color: $default-color;
+    color: $default-light-color;
     font-family: $sans-serif;
     font-weight: bold;
     text-align: left;
   }
 
   &-title {
-    color: $default-shade;
+    color: $default-dark-color;
     font-family: $sans-serif;
     font-size: 4rem;
+    line-height: .9;
     margin: 1rem 0 .2rem 0;
     text-align: left;
   }
 
   &-line {
-    border-top: 0.5rem solid $default-shade;
+    border-top: 0.5rem solid $default-dark-color;
     display: block;
     margin: 0 0 .5rem 0;
     width: 8rem;

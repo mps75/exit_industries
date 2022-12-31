@@ -5,7 +5,7 @@
 
 html,
 body {
-  color: $default-color;
+  color: $default-light-color;
   margin: 0;
   padding: 0;
 }
@@ -30,7 +30,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: $default-shade;
+  color: $default-dark-color;
   font-family: $sans-serif;
   line-height: normal;
   margin: 0 0 .7rem 0;
@@ -105,7 +105,6 @@ li {
 }
 
 .social-media {
-  //color: $default-shade;
   color: $footer-items;
   font-size: 1.5em;
 }

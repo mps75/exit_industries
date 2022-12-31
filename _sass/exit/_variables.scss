@@ -1,25 +1,25 @@
 // Colors
 $catalogue-date: #5e606c;
-//$catalogue-date: #8b564b;
-$default-color: #555 !default;
-$default-shade: #353535 !default;
-$default-tint: #aaa !default;
+$default-light-color: #555 !default;
+$default-dark-color: #353535 !default;
+$default-lighter-color: #aaa !default;
 $footer-background: #304054;
 $footer-items: #ffffff;
 $grey-1: #979797 !default;
 $grey-2: #e5e5e5 !default;
 $grey-3: #f9f9f9 !default;
-//$nav-background: #181818;
 $nav-background: #ffc1cc;
 $nav-title: #304054;
-//$nav-title-hover: #5e606c;
 $nav-title-hover: #ffffff;
 $white: #fff !default;
 $blue: #4a9ae1 !default;
 $shadow-color: rgba(0, 0, 0, .2) !default;
 $code-color: #bf616a !default;
-//pink: #ffc1cc
-//redish for hover: #e44235
+
+// Color parking lot
+// $catalogue-date: #8b564b;
+// $nav-background: #181818;
+// $nav-title-hover: #5e606c;
 
 // Fonts
 $sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif !default;

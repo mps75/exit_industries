@@ -10,7 +10,7 @@
       padding: 0.2rem 0.5rem;
       background: rgba(0, 0, 0, 0.05);
       border-radius: 5px;
-      color: $default-color;
+      color: $default-light-color;
       text-decoration: none;
 
       &:hover,
@@ -36,7 +36,7 @@
     //padding: 5px 0;
 
     &-title {
-      color: $default-color;
+      color: $default-light-color;
       text-decoration: none;
       white-space: nowrap;
       overflow: hidden;
@@ -45,13 +45,13 @@
 
     &-line {
       @include transition(all 0.3s ease-out);
-      border-top: 0.1rem solid $default-shade;
+      border-top: 0.1rem solid $default-dark-color;
       display: block;
       width: 0;
     }
 
     &-meta {
-      color: $default-tint;
+      color: $default-lighter-color;
       text-align: right;
       white-space: nowrap;
     }
@@ -63,7 +63,7 @@
       }
 
       .tags-post-meta {
-        color: $default-shade;
+        color: $default-dark-color;
       }
     }
   }

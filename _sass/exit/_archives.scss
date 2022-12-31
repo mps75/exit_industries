@@ -25,7 +25,7 @@
     //padding: 5px 0;
 
     &-title {
-      color: $default-color;
+      color: $default-light-color;
       text-decoration: none;
       white-space: nowrap;
       overflow: hidden;
@@ -33,7 +33,7 @@
     }
 
     &-meta {
-      color: $default-tint;
+      color: $default-lighter-color;
       text-align: right;
       white-space: nowrap;
     }
@@ -45,7 +45,7 @@
       }
 
       .archives-post-meta {
-        color: $default-shade;
+        color: $default-dark-color;
       }
     }
   }
