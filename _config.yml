@@ -1,8 +1,8 @@
 # Site settings
 title:         Exit Industries
-description:   ""
-baseurl:        "/exit_industries"
-#url:            "https://.github.io"
+description:   ''
+baseurl:       '/exit_industries'
+url:           'https://exitindustries.org'
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
