@@ -58,7 +58,6 @@ blockquote {
 
 figcaption {
   font-style: italic;
-  //padding: 0 0 1.5rem 0;
 }
 
 .image, img {
@@ -104,11 +103,13 @@ li {
   border: 0;
 }
 
+.youtube-caption {
+  display: inline-block;
+  font-style: italic;
+}
+
 .social-media {
   color: $footer-items;
   font-size: 1.5em;
 }
 
-.youtube-caption {
-  font-style: italic;
-}
