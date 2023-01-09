@@ -25,4 +25,4 @@ Here's how to embed a YouTube video:
 
 
 Here's how to link to a different post:
-[test post]({{ site.baseurl }}{% post_url 2023-01-01-plateau %})
+[plateau]({{ site.baseurl }}{% post_url 2023-01-01-plateau %})
