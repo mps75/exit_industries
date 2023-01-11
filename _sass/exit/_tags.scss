@@ -23,24 +23,20 @@
   &-item {
     &-label {
       display: inline-block;
-      //margin: 2rem 0 0.5rem;
       margin: 0 0 .1rem 0;
-      //font-family: $sans-serif;
-      //color: $default-color;
     }
   }
 
   &-post {
     display: flex;
     justify-content: space-between;
-    //padding: 5px 0;
 
     &-title {
       color: $default-light-color;
       text-decoration: none;
       white-space: nowrap;
       overflow: hidden;
-      text-overflow: ellipsis;  //this isn't working at the moment (maybe due to "display: flex" above?
+      text-overflow: ellipsis;  //this isn't working at the moment (maybe due to "display: flex" above?)
     }
 
     &-line {

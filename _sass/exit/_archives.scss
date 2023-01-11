@@ -2,27 +2,20 @@
   &-year {
     &-label {
       display: inline-block;
-      //margin: 2rem 0 0.5rem;
       margin: 0;
-      //font-family: $sans-serif;
-      //color: $default-color;
     }
   }
 
   &-month {
     &-label {
       display: inline-block;
-      //margin: 2rem 0 0.5rem;
       margin: .3rem 0 0 0;
-      //font-family: $sans-serif;
-      //color: $default-color;
     }
   }
 
   &-post {
     display: flex;
     justify-content: space-between;
-    //padding: 5px 0;
 
     &-title {
       color: $default-light-color;
@@ -50,5 +43,3 @@
     }
   }
 }
-
-
