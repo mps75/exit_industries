@@ -12,9 +12,9 @@ The race was at Imola and I qualified P8 out of 50, which was a bit better than 
 
 I'm really happy with how I drove and how the race played out.  It was a pretty intense 65 minutes -- looking forward to next week's race at Brands Hatch.
 
-> ### Week 1 final results (Imola)
-> - Qualifying: P8/50
-> - Race: P4/47
+### Week 1 final results (Imola)
+- Qualifying: P8/50
+- Race: P4/47
 
 Here are a few highlights from the race.
 {% include youtube.html id='Jtb36Mt65eg' caption="NASRS season 14 race 1 at Imola (highlights)" %}

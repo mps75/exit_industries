@@ -18,9 +18,9 @@ Anyway, the point of all of this "sim racing" stuff isn't so much about the resu
 
 Next week we're at Zandvoort, which is a really fun track to hotlap, but not the best for racing.  It's gonna be hairy, but should be fun.
 
-> ### Week 3 final results (Zolder)
-> - Qualifying: P3/41
-> - Race: P5/41
+### Week 3 final results (Zolder)
+- Qualifying: P3/41
+- Race: P5/41
 
 Here are a few highlights from the race.
 {% include youtube.html id='egdWaSmVFmw' caption="NASRS season 14 race 3 at Zolder (highlights)" %}

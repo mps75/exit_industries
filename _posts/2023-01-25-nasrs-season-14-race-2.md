@@ -10,9 +10,9 @@ Tuesday night was the second race of the NASRS season 14.  The race (65 minutes,
 
 The second stint was even more intense than the first as I was battling with a driver for over 20 laps.  It was such good fun.  I got into a big tangle on the last lap and the other driver had a major spin out.  I think it was his fault, but haven't seen the final stewards report so I might have an incoming penalty (hopefully not).  Anyway, another fun race with a decent result -- P6 out of 37.  Looking forward to next week's race at Zolder.
 
-> ### Week 2 final results (Brands Hatch)
-> - Qualifying: P10/37
-> - Race: P6/37
+### Week 2 final results (Brands Hatch)
+- Qualifying: P10/37
+- Race: P6/37
 
 Here are a few highlights (and lowlights) from the race.
 {% include youtube.html id='phSYA3YGadI' caption="NASRS season 14 race 2 at Brands Hatch (highlights/lowlights)" %}
