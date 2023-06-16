@@ -25,5 +25,5 @@ It's easy for me to get a bit down when doing LFM races as the competition there
 
 I've been loyal to the Aston Martin Vantage GT3 these last couple seasons, but am thinking of changing things up for next season.  We'll see how off-season testing goes!
 
-![bend_or]({{ "/assets/img/blog/2023-02-24-nasrs-season-14-summary/Pink_Aston.png" | relative_url }}){:width="100%"}
+![Pink_Aston]({{ "/assets/img/blog/2023-02-24-nasrs-season-14-summary/Pink_Aston.png" | relative_url }}){:width="100%"}
 *My trusty ride throughout NASRS season 14 -- Aston Martin Vantage GT3*
