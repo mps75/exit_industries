@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NASRS Season 15 Race 2
+title: NASRS Season 15 Race 2 (Spa)
 tags: ["sim_racing"]
 sticky: false
 hidden: false

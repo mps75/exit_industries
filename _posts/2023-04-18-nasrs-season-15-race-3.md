@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NASRS Season 15 Race 3
+title: NASRS Season 15 Race 3 (Silverstone)
 tags: ["sim_racing"]
 sticky: false
 hidden: false

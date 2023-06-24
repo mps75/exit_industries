@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NASRS Season 14 Race 1
+title: NASRS Season 14 Race 1 (Imola)
 tags: ["sim_racing"]
 sticky: false
 hidden: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NASRS Season 14 Race 6
+title: NASRS Season 14 Race 6 (Watkins Glen)
 tags: ["sim_racing"]
 sticky: false
 hidden: false

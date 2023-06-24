@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NASRS Season 14 Race 4
+title: NASRS Season 14 Race 4 (Zandvoort)
 tags: ["sim_racing"]
 sticky: false
 hidden: false

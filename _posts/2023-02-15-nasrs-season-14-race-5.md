@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NASRS Season 14 Race 5
+title: NASRS Season 14 Race 5 (Paul Ricard)
 tags: ["sim_racing"]
 sticky: false
 hidden: false

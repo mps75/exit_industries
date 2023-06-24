@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NASRS Season 16 Race 1
+title: NASRS Season 16 Race 1 (Suzuka)
 tags: ["sim_racing"]
 sticky: false
 hidden: false

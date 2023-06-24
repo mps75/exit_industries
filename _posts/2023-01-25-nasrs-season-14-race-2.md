@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NASRS Season 14 Race 2
+title: NASRS Season 14 Race 2 (Brands Hatch)
 tags: ["sim_racing"]
 sticky: false
 hidden: false

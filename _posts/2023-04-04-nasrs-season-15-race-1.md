@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NASRS Season 15 Race 1
+title: NASRS Season 15 Race 1 (Barcelona)
 tags: ["sim_racing"]
 sticky: false
 hidden: false

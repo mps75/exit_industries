@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NASRS Season 14 Race 3
+title: NASRS Season 14 Race 3 (Zolder)
 tags: ["sim_racing"]
 sticky: false
 hidden: false

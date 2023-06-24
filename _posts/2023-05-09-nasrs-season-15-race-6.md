@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NASRS Season 15 Race 6
+title: NASRS Season 15 Race 6 (Kyalami)
 tags: ["sim_racing"]
 sticky: false
 hidden: false

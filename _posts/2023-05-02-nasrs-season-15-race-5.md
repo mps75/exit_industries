@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NASRS Season 15 Race 5
+title: NASRS Season 15 Race 5 (Laguna Seca)
 tags: ["sim_racing"]
 sticky: false
 hidden: false
