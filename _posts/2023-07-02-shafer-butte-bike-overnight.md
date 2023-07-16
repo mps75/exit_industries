@@ -52,3 +52,9 @@ I was up a bit before the actual sunrise, enjoyed a cup of coffee and the beauti
 *Riding home*
 
 So, yeah, mission accomplished with this first outing.  I felt tired, yet recharged when I got home and am already starting to plan my next adventure.  I'll probably go back up the mountain, but will load up the mountain bike this time and take the dirt route.  Can't wait!
+
+
+### Ride stats
+- Total bike weight (bike + gear): 70 pounds
+- Ride up: 24.41 miles, 4 hrs 9 mins, 4836 feet climbed
+- Ride down: 24.88 miles, 1 hr 33 mins, 727 feet climbed
