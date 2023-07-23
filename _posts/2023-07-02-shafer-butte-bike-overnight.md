@@ -55,6 +55,6 @@ So, yeah, mission accomplished with this first outing.  I felt tired, yet rechar
 
 
 ### Ride stats
-- Total bike weight (bike + gear): 70 pounds
+- Total bike weight (bike + gear): 66.2 pounds
 - Ride up: 24.41 miles, 4 hrs 9 mins, 4836 feet climbed
 - Ride down: 24.88 miles, 1 hr 33 mins, 727 feet climbed
