@@ -9,7 +9,7 @@ permalink: /archives/
   {%- for year in posts_by_year -%}
     <div class="archives-year">
     <h2 class="archives-year-label">{{ year.name }}</h2>
-    {%- assign posts_by_month = year.items | group_by_exp:"post","post.date | date:'%B'" | sort:'name' | reverse -%}
+    {%- assign posts_by_month = year.items | group_by_exp:"post","post.date | date:'%B'" | sort:'date' -%}
     {%- for month in posts_by_month -%}
         <div class="archives-month">
         <h3 class="archives-month-label">{{ month.name }}</h3>
