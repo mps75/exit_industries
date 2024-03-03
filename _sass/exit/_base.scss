@@ -41,6 +41,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 blockquote {
   border-left: .25rem solid $grey-2;
   color: $grey-1;

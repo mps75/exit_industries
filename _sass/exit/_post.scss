@@ -18,10 +18,11 @@
   }
 
   &-line {
-    border-top: 0.5rem solid $default-dark-color;
+    //border-top: 0.5rem solid $default-dark-color;
+    border-top: 0.5rem solid $blue;
     display: block;
-    margin: 0 0 .5rem 0;
-    width: 8rem;
+    margin: .75rem 0 .5rem 0;
+    width: 15rem;
   }
 
   p {
