@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Archives - 2019"
+permalink: /archives/2019/
+---
+
+<div class="archives">
+  {%- assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y'" -%}
+  {%- for year in posts_by_year -%}
+    {%- case year.name -%}
+      {%- when "2019" -%}
+        <div class="archives-year">
+          <h2 class="archives-year-label">{{ year.name }}</h2>
+          {%- assign posts_by_month = year.items | group_by_exp:"post","post.date | date:'%B'" | sort:'date' -%}
+          {%- for month in posts_by_month -%}
+          <div class="archives-month">
+            <h3 class="archives-month-label">{{ month.name }}</h3>
+            <ul>
+              {%- for post in month.items -%}
+                <li><a class="archives-post" href="{{ post.url | prepend: site.baseurl }}">
+                  <div>
+                    <span class="archives-post-title">{{ post.title }}</span>
+                  </div>
+                  <span class="archives-post-meta">
+                    <time datetime="{{ post.date }}">
+                      {{ post.date | date:"%Y-%m-%d" }}
+                    </time>
+                  </span>
+                </a></li>
+              {%- endfor -%}
+            </ul>
+          </div>
+          {%- endfor -%}
+          <br />
+        </div>
+    {%- endcase -%}
+  {%- endfor -%}
+</div>

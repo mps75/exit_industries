@@ -20,6 +20,12 @@ permalink: /archives/
             <a href="{{ year.name | prepend: site.baseurl }}">{{year.name}}</a>
           </h2>
         </div>
+      {%- when "2019" -%}   <!-- Previous year -->
+        <div class="archives-year">
+          <h2 class="archives-year-label">
+            <a href="{{ year.name | prepend: site.baseurl }}">{{year.name}}</a>
+          </h2>
+        </div>
       {%- when "2024" -%}   <!-- Current year -->
         <div class="archives-year">
           <h2 class="archives-year-label">{{ year.name }}</h2>
