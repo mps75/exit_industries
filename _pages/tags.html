@@ -6,29 +6,36 @@ permalink: /tags/
 
 <div class="tags">
   <div class="tags-clouds">
-    {% for tag in site.tags %}
-    <a href="#{{ tag[0] }}">{{ tag[0] }}</a>
+    {% capture tags %}
+      {% for tag in site.tags %}
+        {{ tag[0] }}
+      {% endfor %}
+    {% endcapture %}
+    {% assign sorted_tags = tags | split:' ' | sort %}
+    {% for tag in sorted_tags %}
+      <a href="#{{ tag }}">{{ tag }}</a>
     {% endfor %}
   </div>
-  {% for tag in site.tags %}
-  <div class="tags-item">
-    <h2 class="tags-item-label">{{ tag[0] }}</h2>
-    <ul>
-      {% for post in tag[1] %}
-        <li>
-          <a class="tags-post" href="{{ post.url | prepend: site.baseurl }}">
-            <div>
-              <span class="tags-post-title">{{ post.title | truncate: 32 }}</span>
-            </div>
-            <span class="tags-post-meta">
-              <time datetime="{{ post.date }}">
-                {{ post.date | date:"%Y-%m-%d" }}
-              </time>
-            </span>
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
+
+  {% for tag in sorted_tags %}
+    <div class="tags-item" id="{{ tag }}">
+      <h2 class="tags-item-label">{{ tag }}</h2>
+      <ul>
+        {% for post in site.tags[tag] %}
+          <li>
+            <a class="tags-post" href="{{ post.url | prepend: site.baseurl }}">
+              <div>
+                <span class="tags-post-title">{{ post.title | truncate: 32 }}</span>
+              </div>
+              <span class="tags-post-meta">
+                <time datetime="{{ post.date }}">
+                  {{ post.date | date:"%Y-%m-%d" }}
+                </time>
+              </span>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
   {% endfor %}
 </div>

@@ -4,7 +4,13 @@ title: "Favorites"
 permalink: /favs/
 ---
 
-Here are some things I enjoy
+## Bicycles
+
+- [Surly](https://surlybikes.com)
+
+## Guitar
+
+- [Active Melody](https://www.activemelody.com)
 
 ## Software
 
@@ -17,7 +23,3 @@ Here are some things I enjoy
 - [Raycast](https://www.raycast.com)
 - [Shottr](https://shottr.cc)
 - [Things](https://culturedcode.com/things/)
-
-## Guitar
-
-- [Active Melody](https://www.activemelody.com)

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: TEMPLATE
-tags: ["template"]
+tags:
+  - ["template"]
 sticky: false
 hidden: false
 ---
