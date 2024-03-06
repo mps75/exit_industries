@@ -18,10 +18,10 @@ layout: default
 
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow"><i class="fa fa-arrow-circle-o-left fa-lg" aria-hidden="true"></i></a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow"><i class="fa-solid fa-arrow-left-long" aria-hidden="true"></i></a>
   {% endif %}
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow"><i class="fa fa-arrow-circle-o-right fa-lg" aria-hidden="true"></i></a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow"><i class="fa-solid fa-arrow-right-long" aria-hidden="true"></i></a>
   {% endif %}
   <span>{{ paginator.page }}</span>
 </div>

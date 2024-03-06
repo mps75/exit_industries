@@ -1,26 +1,14 @@
 ---
 layout: post
-title: "Archives"
-permalink: /archives/
+title: "Archives - 2023"
+permalink: /archives/2023/
 ---
 
 <div class="archives">
   {%- assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y'" -%}
   {%- for year in posts_by_year -%}
     {%- case year.name -%}
-      {%- when "2023" -%}   <!-- Most recent previous year -->
-        <div class="archives-year">
-          <h2 class="archives-year-label">Previous years<br/>
-            <a href="{{ year.name | prepend: site.baseurl }}">{{year.name}}</a>
-          </h2>
-        </div>
-      {%- when "2022" -%}   <!-- Previous year -->
-        <div class="archives-year">
-          <h2 class="archives-year-label">
-            <a href="{{ year.name | prepend: site.baseurl }}">{{year.name}}</a>
-          </h2>
-        </div>
-      {%- when "2024" -%}   <!-- Current year -->
+      {%- when "2023" -%}
         <div class="archives-year">
           <h2 class="archives-year-label">{{ year.name }}</h2>
           {%- assign posts_by_month = year.items | group_by_exp:"post","post.date | date:'%B'" | sort:'date' -%}
@@ -31,7 +19,7 @@ permalink: /archives/
               {%- for post in month.items -%}
                 <li><a class="archives-post" href="{{ post.url | prepend: site.baseurl }}">
                   <div>
-                    <span class="archives-post-title">{{ post.title | truncate: 32 }}</span>
+                    <span class="archives-post-title">{{ post.title }}</span>
                   </div>
                   <span class="archives-post-meta">
                     <time datetime="{{ post.date }}">

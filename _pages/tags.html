@@ -18,7 +18,7 @@ permalink: /tags/
         <li>
           <a class="tags-post" href="{{ post.url | prepend: site.baseurl }}">
             <div>
-              <span class="tags-post-title">{{ post.title }}</span>
+              <span class="tags-post-title">{{ post.title | truncate: 32 }}</span>
             </div>
             <span class="tags-post-meta">
               <time datetime="{{ post.date }}">

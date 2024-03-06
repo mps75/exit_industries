@@ -4,8 +4,10 @@ title: "About"
 permalink: /about/
 ---
 
-Facebook and Instagram lost their appeal for me a while ago and Twitter is, well, everyone knows what's happening there.  I've missed having a place to post random stuff so I thought I'd try my hand at blogging again.  I enjoy fiddling with Jekyll and CSS probably as much (or more) as I do creating the content.  So we'll see how things go.  At the very least, it's been a fun project getting this site up and running.
+Hi.  My name is Matthew Swanson -- welcome to my blog.
 
-At the moment I'm obsessed with sim racing so I'll probably be posting a lot of stuff about that.  I'm also into bikes, guitars, camping, and video games so those things could show up here as well.
+It seems weird to work on a blog these days, but last year I started to really miss having a small web project like this so I decided to scrap my old, stale blog and start something new.  I really enjoy fiddling with Jekyll and CSS and all the other pieces it takes to pull together a site (probably more than I like actually writing posts).  So it’s been fun to get something new up and running.
 
-Thanks a lot for reading.
+As for me, I used to live in Southern California and work in IT.  Now I live in Idaho and work on my hobbies.  I’m currently into riding bikes, camping, practicing guitar, watching stuff, reading stuff, and playing video games.
+
+Thanks for visiting.
