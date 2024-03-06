@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to suck at everything
-tags: [“productivity”]
+tags: ["productivity"]
 sticky: false
 hidden: false
 ---
