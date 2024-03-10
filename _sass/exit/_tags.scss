@@ -36,7 +36,7 @@
       text-decoration: none;
       white-space: nowrap;
       overflow: hidden;
-      text-overflow: ellipsis;  //this isn't working at the moment (maybe due to "display: flex" above?)
+      text-overflow: ellipsis;  //this isn't working at the moment (maybe due to "display: flex" above?  not sure)
     }
 
     &-line {
