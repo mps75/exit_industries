@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bikepacking - Shafer Butte
-tags: ["bikepacking"]
+tags: [bikepacking]
 sticky: false
 hidden: false
 ---

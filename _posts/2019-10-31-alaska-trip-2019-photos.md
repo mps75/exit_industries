@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Alaska trip 20219 photos
-tags: ["travel"]
+title: Alaska trip 2019 photos
+tags: [travel]
 sticky: false
 hidden: false
 ---

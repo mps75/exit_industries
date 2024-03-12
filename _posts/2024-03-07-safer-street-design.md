@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Safer street design
-tags: ["bicycles"]
+tags: [bicycles]
 sticky: false
 hidden: false
 ---

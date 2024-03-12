@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notes revamp
-tags: ["productivity"]
+tags: [productivity]
 sticky: false
 hidden: false
 ---
