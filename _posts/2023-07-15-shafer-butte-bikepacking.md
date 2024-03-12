@@ -18,7 +18,7 @@ I left around 11:30am because I wasn't sure how long it would take me and, more 
 ![bikepacking_shafer_butte_02]({{ "/assets/img/blog/2023-07-15-bikepacking-shafer-butte/bikepacking_shafer_butte_02.jpeg" | relative_url }}){:width="100%"}
 *Boise Ridge Road (tree line)*
 
-Aside from kicking my ass a bit, the ride up was nice and uneventful.  Around mile 20 the gravel road intersected the "Around the Mountain" singletrack trail so I hopped on that for the last five miles or so.  Overall A.T.M. a pretty easy trail so I didn't have too many issues with the loaded bike, but compared to a naked bike I could definitely tell the difference in both handling and climbing.  I just took it easy and plodded along, thinking about the dinner I was going to maul once I got to camp.
+Aside from kicking my ass a bit, the ride up was nice and uneventful.  Around mile 20 the gravel road intersected the "Around the Mountain" singletrack trail so I hopped on that for the last five miles or so.  Overall A.T.M. is a pretty easy trail so I didn't have too many issues with the loaded bike, but compared to a naked bike I could definitely tell the difference in both handling and climbing.  I just took it easy and plodded along, thinking about the dinner I was going to maul once I got to camp.
 
 ![bikepacking_shafer_butte_03]({{ "/assets/img/blog/2023-07-15-bikepacking-shafer-butte/bikepacking_shafer_butte_03.jpeg" | relative_url }}){:width="100%"}
 *Around the Mountain MTB trail*
