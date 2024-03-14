@@ -16,7 +16,7 @@ permalink: /favs/
 
 - [AppCleaner](https://freemacsoft.net/appcleaner/)
 - [iA Writer](https://ia.net/writer)
-- [NetNewsWire](https://netnewswire.com)
+- [News Explorer](https://betamagic.nl/products/newsexplorer.html)
 - [Obsidian](https://obsidian.md)
 - [Omnivore](https://omnivore.app)
 - [Pure Paste](https://sindresorhus.com/pure-paste)
