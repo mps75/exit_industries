@@ -63,7 +63,7 @@ main {
   }
 }
 
-@media (min-width: 725px) {   // if device width is greater than or equal to 725, apply the following
+@media (min-width: 725px) {   // if device width is greater than or equal to 725, apply the following settings
   .nav {
     &-container {
       text-align: left;
