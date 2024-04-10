@@ -1,0 +1,19 @@
+---
+layout: post
+title: Gravel bikes
+tags: [bicycles]
+sticky: false
+hidden: false
+---
+
+I rekindled my love for cycling last year after I bought a new-to-me [Suly Midnight Special](https://surlybikes.com/bikes/midnight_special) and started doing some gravel riding in our local foothills and mountains.  I bought the Surly mostly because I love Surlys and have always wanted a more nimble steel bike.  I've had a Surly Long Haul Trucker, which is steel, since 2011 and it's probably been the best bike I've ever owned.  It took me to-and-from work every day for years.  It has taken me camping (and still does).  It takes me to the grocery store and anywhere else I want to go that requires carrying stuff or keeping my feet dry.  It's old and a bit out-dated, but I love it.
+
+As for the Midnight Special, it has that bullet-proof feel only a solid steel bike can provide.  The huge tires eat up bumps and bad pavement, yet it's still agile enough to make it fun to ride.  I absolutely love riding it both on the road and on moderate gravel.  As I got more into gravel riding, though, especially in the local foothills/mountains, I began thinking about getting something a bit lighter.  Anyone who rides bikes (or motorcycles) knows there's no perfect do-all bike.  You have to make trade-offs.  The Midnight Special is solid, yet fun to ride.  But it's a little heavy and doesn't have the most relaxed geometry.  So it can get a little sketchy on "the gnar," as they say.
+
+I spent a fair amount of time researching bikes and came across some pretty cool ones that were direct-to-consumer only.  [Lauf](https://www.laufcycles.com), which is an Iceland outfit, has a really unique gravel bike that features their famous (or infamous, depending on your view), front fork.  Their [Seigla](https://www.laufcycles.com/product/lauf-seigla) is billed as more of a racing bike and it doesn't have any mount points for bikepacking so I kind of ruled that one out.
+
+I also really like the looks of the [Trek Checkpoint](https://www.trekbikes.com/us/en_US/bikes/road-bikes/gravel-bikes/checkpoint/c/B224/) although it's a bit more expensive than some of the other options (I think you pay a premium for the Trek brand).  However, having access to a local dealer that can provide support appeals to me so I haven't ruled out a Trek.
+
+The other interesting bike I found was from a company in Utah named [Fezzari](https://aribikes.com).  Well, they *were* named "Fezzari," but recently changed their name to "Ari".  They've been saying that they wanted to "Better articulate our identity" with the name change, but I think it's because so many people hated the name Fezzari.  The comments in nearly every review or Reddit post about their bikes would spin off into a conversation about how horrible their name is and how folks would never buy one of their bikes because the name is so embarrassing.  I wasn't nuts about "Fezzari" but it didn't bother me enough to not consider buying one.  They have a carbon gravel bike named Shafer, which might be a sign since that's the name of one of our cats (who is named after the local mountain where I do most of my bikepacking and gravel riding).  It looks like a really solid bike that checks all of the boxes for what I'm looking for, except the direct-to-customer bit, I guess.
+
+I told myself and, more importantly, my wife, that I was not going to succumb to the urge to buy another new bike this year and just stick with the Midnight Special since I think I can make that work for the rides I'm doing.  As I mentioned, it can be a little sketchy on some of the really rough stuff, but I tend to be pretty cautious so I'm not too worried about it.  I still have my old Look 585 for road rides, which I do occasionally.  It's on its last legs, though, so at some point I'll need to get a gravel bike that works well enough for road riding, too.  Maybe 2025!
