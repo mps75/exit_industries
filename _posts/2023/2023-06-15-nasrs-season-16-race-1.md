@@ -8,7 +8,7 @@ hidden: false
 
 Last night season 16 of the North American Sim Racing Series (NASRS) kicked off with a 65 minute race at Suzuka.  Like previous seasons we pre-qualified with our best average of 5 consecutive clean laps a couple weeks before the start of the season.  This qualifying set not only the grid for the first race, but also the classes (pro or AM) for the season.  I qualified in P3 so I'm in the pro class again.  However, I'm driving a different car this season, the Lamborghini Huracan GT3 Evo2, which was released in April.  I'm also racing in the Wednesday night split instead of the Tuesday night split, so there are a few different drivers for me since most folks seem to stick to the same night between seasons.
 
-![new_car]({{ "/assets/img/blog/2023-06-15-nasrs-season-16-race-1/new_car.png" | relative_url }}){:width="100%"}
+![new_car]({{ "/assets/img/blog/2023-06-15-nasrs-season-16-race-1/lamborghini_huracan_gt3_evo2.png" | relative_url }}){:width="100%"}
 *New ride for season 16 -- Lamborghini Huracan GT3 Evo2*
 
 I got a really good start when the lights went green and was able to jump up into P2.  I got settled in and stayed there for a couple laps, but at the end of lap 3 I got dive-bombed and if I hadn't been paying attention and backed out of the turn, we would have collided and it might have been race over for both of us.  That was kind of a bummer, but I did my best to settle down and drive my race.

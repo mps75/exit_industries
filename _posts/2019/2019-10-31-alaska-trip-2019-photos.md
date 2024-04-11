@@ -6,7 +6,7 @@ sticky: false
 hidden: false
 ---
 
-Here are the photos that accompany the [Alaska trip 2019 post]({{ site.baseurl }}{% link _posts/2019-10-30-alaska-trip-2019.md %}).  Check that out for more details about our 2019 trip to Alaska. <br /><br /><br />
+Here are the photos that accompany the [Alaska trip 2019 post]({{ site.baseurl }}{% post_url /2019/2019-10-30-alaska-trip-2019 %}).  Check that out for more details about our 2019 trip to Alaska.
 
 ### Warmup
 ![01_mccloud_river_middle_falls]({{site.baseurl}}/assets/img/blog/2019-10-30-ak/01_mccloud_river_middle_falls.jpeg){:width="90%"}
