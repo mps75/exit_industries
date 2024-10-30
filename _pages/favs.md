@@ -6,7 +6,9 @@ permalink: /favs/
 
 ## Bicycles
 
-- [Surly](https://surlybikes.com)
+- [Bikepacking.com](https://bikepacking.com)
+- [Everything's Been Done](https://www.youtube.com/@EverythingsBeenDone)
+- [The Radavist](https://theradavist.com)
 
 ## Guitar
 
@@ -18,7 +20,6 @@ permalink: /favs/
 - [iA Writer](https://ia.net/writer)
 - [News Explorer](https://betamagic.nl/products/newsexplorer.html)
 - [Obsidian](https://obsidian.md)
-- [Omnivore](https://omnivore.app)
 - [Pure Paste](https://sindresorhus.com/pure-paste)
 - [Raycast](https://www.raycast.com)
 - [Shottr](https://shottr.cc)
