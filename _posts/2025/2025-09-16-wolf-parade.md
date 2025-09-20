@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perfect
+title: Wolf Parade
 tags: [music]
 sticky: false
 hidden: false
