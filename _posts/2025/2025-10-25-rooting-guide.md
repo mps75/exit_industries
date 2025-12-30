@@ -27,4 +27,4 @@ I applied this formula during this year's MLB playoffs and settled on the Toront
 *Powder Blue?!  Now you're just showing off.*
 
 ![trump_dodgers]({{ "/assets/img/blog/2025-10-25-rooting-guide/trump_dodgers.jpg" | relative_url }}){:width="100%"}
-*Removing any doubts*
+*Never forget*
