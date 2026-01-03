@@ -8,7 +8,13 @@ permalink: /archives/
   {%- assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y'" -%}
   {%- for year in posts_by_year -%}
     {%- case year.name -%}
-      {%- when "2024" -%}   <!-- Most recent previous year -->
+      {%- when "2025" -%}   <!-- Most recent previous year -->
+        <div class="archives-year">
+          <h2 class="archives-year-label">
+            <a href="{{ year.name | prepend: site.baseurl }}">{{year.name}}</a>
+          </h2>
+        </div>
+      {%- when "2024" -%}   <!-- Previous year -->
         <div class="archives-year">
           <h2 class="archives-year-label">
             <a href="{{ year.name | prepend: site.baseurl }}">{{year.name}}</a>
@@ -26,7 +32,7 @@ permalink: /archives/
             <a href="{{ year.name | prepend: site.baseurl }}">{{year.name}}</a>
           </h2>
         </div>
-      {%- when "2025" -%}   <!-- Current year -->
+      {%- when "2026" -%}   <!-- Current year -->
         <div class="archives-year">
           <h2 class="archives-year-label">{{ year.name }}</h2>
           {%- assign posts_by_month = year.items | group_by_exp:"post","post.date | date:'%B'" | sort:'date' -%}
